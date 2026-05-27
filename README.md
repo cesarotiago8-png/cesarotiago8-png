@@ -1,22 +1,41 @@
-# Olá, eu sou o Tiago Thomaz Cesaro 👋
+Olá, eu sou o Tiago Thomaz Cesaro 👋
 
-Estudante de Inteligência Artificial na FIAP com foco no desenvolvimento de modelos preditivos, algoritmos de Machine Learning, Deep Learning e soluções automatizadas orientadas a dados. 
-
-Utilizo a tecnologia para transformar dados brutos em inteligência analítica, visando otimizar a eficiência operacional e mitigar riscos no ambiente corporativo.
-
----
-
-🛠️ Tecnologias e Ferramentas
-
-- Linguagens de Programação: Python, R, C/C++
-- Machine Learning & Data Science: Pandas, NumPy, Scikit-learn, Modelagem Preditiva, Análise Estatística
-- Deep Learning & Visão Computacional: TensorFlow, PyTorch, Keras, OpenCV, YOLO
-- Cloud & IoT: AWS, Oracle Cloud, Arduino IDE, Node-RED, Sistemas Embarcados
-- Metodologias: Metodologias Ágeis (Scrum), Engenharia de Prompt, Pensamento Crítico
+Estudante de Inteligência Artificial na FIAP  
+Focado em Data Analytics, Machine Learning e Ciência de Dados  
+Desenvolvendo projetos com Python, análise de dados, automação e soluções inteligentes  
+Interesse em Cloud Computing, IA aplicada e tecnologia orientada por dados  
 
 ---
 
- 📬 Vamos nos conectar?
-- LinkedIn: [linkedin.com/in/tiago-thomaz-70679a3a1](https://www.linkedin.com/in/tiago-thomaz-70679a3a1)
-- E-mail: cesaroriago8@gmail.com
-- Telefone para contato: (11) 98950-4262
+Tecnologias em desenvolvimento
+
+- Python
+- SQL 
+- R
+- Pandas
+- NumPy
+- Scikit-learn
+- Streamlit
+- Node-RED
+- Arduino IDE
+- Cloud Computing
+
+---
+
+Projetos acadêmicos
+
+Manutenção Preditiva com IA — SOMPO
+Projeto acadêmico voltado para análise de risco e manutenção preditiva de equipamentos agrícolas utilizando conceitos de Machine Learning, redes neurais e analytics.
+
+Data Analytics e Modelagem Estatística
+Projetos utilizando Python, Pandas e análise estatística para interpretação de dados e geração de insights.
+
+IoT e Sensores Inteligentes
+Integração de sensores e automação utilizando Arduino IDE e Node-RED.
+
+---
+
+Contato
+
+- LinkedIn: https://linkedin.com/in/cesaro-tiago
+- Numero de telefone: (11) 98950-4262
