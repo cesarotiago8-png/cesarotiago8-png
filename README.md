@@ -24,7 +24,7 @@ Tecnologias em desenvolvimento
 
 Projetos acadêmicos
 
-Manutenção Preditiva com IA — SOMPO
+Manutenção Preditiva com IA - SOMPO
 Projeto acadêmico voltado para análise de risco e manutenção preditiva de equipamentos agrícolas utilizando conceitos de Machine Learning, redes neurais e analytics.
 
 Data Analytics e Modelagem Estatística
