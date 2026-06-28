@@ -1,41 +1,73 @@
-Olá, eu sou o Tiago Thomaz Cesaro 👋
+# Olá, eu sou o Tiago Thomaz Cesaro 👋
 
-Estudante de Inteligência Artificial na FIAP  
-Focado em Data Analytics, Machine Learning e Data Scientist  
-Desenvolvendo projetos com Python, análise de dados, automação e soluções inteligentes  
-Interesse em Cloud Computing, IA aplicada e tecnologia orientada por dados  
+Estudante de Inteligência Artificial na FIAP.
+
+Tenho foco em Data Analytics, Machine Learning e soluções baseadas em dados, desenvolvendo projetos acadêmicos utilizando programação, análise estatística e modelos preditivos.
+
+Atualmente desenvolvendo conhecimentos em Python, análise de dados, inteligência artificial, automação e tecnologias aplicadas a problemas reais.
 
 ---
 
-Tecnologias em desenvolvimento
+## Tecnologias e conhecimentos
 
+### Programação e Dados
 - Python
-- SQL 
 - R
+- SQL
 - Pandas
 - NumPy
+- Análise exploratória de dados (EDA)
+- Estatística aplicada
+
+### Machine Learning
 - Scikit-learn
-- Streamlit
-- Node-RED
+- Modelos de classificação e regressão
+- Árvores de decisão
+- Modelagem preditiva
+- Avaliação de modelos
+
+### Inteligência Artificial
+- Conceitos de IA
+- Machine Learning
+- Redes neurais artificiais
+- Deep Learning (em desenvolvimento)
+
+### IoT e Sistemas Inteligentes
 - Arduino IDE
-- Cloud Computing
+- Sensores
+- Coleta de dados
+- Node-RED
+
+### Cloud Computing
+- Conceitos de computação em nuvem
+- AWS Academy
 
 ---
 
-Projetos acadêmicos
+## Formação
 
-Manutenção Preditiva com IA - SOMPO
-Projeto acadêmico voltado para análise de risco e manutenção preditiva de equipamentos agrícolas utilizando conceitos de Machine Learning, redes neurais e analytics.
+Tecnólogo em Inteligência Artificial — FIAP
 
-Data Analytics e Modelagem Estatística
-Projetos utilizando Python, Pandas e análise estatística para interpretação de dados e geração de insights.
-
-IoT e Sensores Inteligentes
-Integração de sensores e automação utilizando Arduino IDE e Node-RED.
+Disciplinas estudadas:
+- Computational Thinking with Python
+- Cognitive Data Science
+- Machine Learning & Modelling
+- Statistical Computing with R & Python
+- AI Computer Systems & Sensors
+- Cognitive Cybersecurity
+- Plataformas, Serviços Cognitivos & Cloud Computing
+- Redes Neurais Artificiais, Deep Learning e Algoritmos Genéticos
+- AI Challenges
 
 ---
 
-Contato
+## Objetivo
 
-- LinkedIn: https://linkedin.com/in/cesaro-tiago
-- Numero de telefone: (11) 98950-4262
+Busco uma oportunidade de estágio ou posição inicial na área de dados, contribuindo com análise de informações, automação de processos e desenvolvimento de soluções inteligentes utilizando tecnologia.
+
+---
+
+## Contato
+
+LinkedIn:
+https://linkedin.com/in/cesaro-tiago
