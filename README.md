@@ -44,23 +44,6 @@ Atualmente desenvolvendo conhecimentos em Python, análise de dados, inteligênc
 
 ---
 
-## Formação
-
-Tecnólogo em Inteligência Artificial — FIAP
-
-Disciplinas estudadas:
-- Computational Thinking with Python
-- Cognitive Data Science
-- Machine Learning & Modelling
-- Statistical Computing with R & Python
-- AI Computer Systems & Sensors
-- Cognitive Cybersecurity
-- Plataformas, Serviços Cognitivos & Cloud Computing
-- Redes Neurais Artificiais, Deep Learning e Algoritmos Genéticos
-- AI Challenges
-
----
-
 ## Objetivo
 
 Busco uma oportunidade de estágio ou posição inicial na área de dados, contribuindo com análise de informações, automação de processos e desenvolvimento de soluções inteligentes utilizando tecnologia.
